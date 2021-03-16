@@ -18,5 +18,10 @@
 ## Tools and Technologies
 <p align="left"><strong>Node.js | express.js | HTML | CSS | JS | Razorpay</strong></p>
 
+## How to Run?
+Install node on your system.<br>
+`- npm install`<br>
+`- npm start`
+
 ## View Live
 https://donate-for-orphanage.herokuapp.com/
