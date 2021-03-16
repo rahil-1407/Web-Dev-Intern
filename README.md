@@ -16,7 +16,7 @@
 <br><br>
 
 ## Tools and Technologies
-<p align="left"><strong>Node.js | express.js | HTML | CSS | JS | Razorpay</strong></p>
+<p align="left"><strong>Node.js | express.js | HTML | CSS | JS | Razorpay | Heroku</strong></p>
 
 ## How to Run?
 Install node on your system.<br>
