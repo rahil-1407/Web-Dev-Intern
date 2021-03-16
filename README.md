@@ -1,5 +1,5 @@
 ## The Sparks Foundation
-<p align="center">Completed Task Under Graduate Rotational Internship Program (GRIP). The Sparks Foundation.
+<p align="left">Completed Task Under Graduate Rotational Internship Program (GRIP). The Sparks Foundation.</p>
   
 ## Payment Gateway Integration
 
@@ -9,5 +9,5 @@
 - Hosted on Heroku.
 
 ## Tools and Technologies
-<p align="center">Node.js | express.js | HTML | CSS | JS | Razorpay
+<p align="left"><strong>Node.js | express.js | HTML | CSS | JS | Razorpay</strong></p>
 
