@@ -9,11 +9,11 @@
 - Hosted on Heroku.
 
 <img src="https://github.com/rahil-1407/Web-Dev-Intern/blob/main/Images/Screenshot%20(87).png" align="center"></img>
-<br>
+<br><br><br>
 <img src="https://github.com/rahil-1407/Web-Dev-Intern/blob/main/Images/Screenshot%20(88).png" align="center"></img>
-<br>
+<br><br><br>
 <img src="https://github.com/rahil-1407/Web-Dev-Intern/blob/main/Images/WhatsApp%20Image%202021-03-16%20at%206.54.08%20PM.jpeg" align="center"></img>
-<br>
+<br><br>
 
 ## Tools and Technologies
 <p align="left"><strong>Node.js | express.js | HTML | CSS | JS | Razorpay</strong></p>
